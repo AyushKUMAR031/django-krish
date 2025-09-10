@@ -1,0 +1,1 @@
+Create a UserRegistration Form with fields for username,email,phone(unique),address,password(min 12 chars with custom validator),password confirmation,profile photo(max 5 mb),and terms consent.Implement a multi_step wizard using SessionWizardView,validate email uniqueness,and apply CSRF protection
