@@ -1,2 +1,1 @@
 # django-krish
-# django-krish
